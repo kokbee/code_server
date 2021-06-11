@@ -41,3 +41,8 @@ port 의 경우 내가 포워딩한 port로 개방
 
 - 화면 및 코드언어 확인 (미리 설치함)
 <img width="60%" src="https://user-images.githubusercontent.com/44458177/121624957-7e2d8f00-caad-11eb-8fa5-0627bea41269.gif">
+
+
+## Etc
+- 모든 과정은 ipad pro로 작업 및 세팅
+- 촬영 및 코드 설치 또한 ipad pro로 웹에서 
