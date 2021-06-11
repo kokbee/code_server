@@ -21,19 +21,23 @@ sysnology & docker code-server
 ## Install
 
 1. sysnology-docker image setup
-<img width="70%" src="https://user-images.githubusercontent.com/44458177/121621614-736ffb80-caa7-11eb-978f-fba23f4969e1.jpg">
+<img width="60%" src="https://user-images.githubusercontent.com/44458177/121621614-736ffb80-caa7-11eb-978f-fba23f4969e1.jpg">
 
 2. create container
-<img width="60%" src="https://user-images.githubusercontent.com/44458177/121621847-ee391680-caa7-11eb-903a-0e924a645bb1.jpg">
+<img width="50%" src="https://user-images.githubusercontent.com/44458177/121621847-ee391680-caa7-11eb-903a-0e924a645bb1.jpg">
 
 3. container setting
-<img width="60%" src="https://user-images.githubusercontent.com/44458177/121622894-b337e280-caa9-11eb-95d5-3837c8f90a31.jpg">
+<img width="50%" src="https://user-images.githubusercontent.com/44458177/121622894-b337e280-caa9-11eb-95d5-3837c8f90a31.jpg">
 port 의 경우 내가 포워딩한 port로 개방
-<img width="60%" src="https://user-images.githubusercontent.com/44458177/121623120-1c1f5a80-caaa-11eb-9c7d-ec0db8cf1ca1.jpg">
-<img width="60%" src="https://user-images.githubusercontent.com/44458177/121622951-cf3b8400-caa9-11eb-9768-08bb4c000085.jpg">
-<img width="60%" src="https://user-images.githubusercontent.com/44458177/121623063-feea8c00-caa9-11eb-8824-c96d158a823b.jpg">
-<img width="60%" src="https://user-images.githubusercontent.com/44458177/121623272-5852bb00-caaa-11eb-9555-941753c3e3f3.jpg">
+<img width="50%" src="https://user-images.githubusercontent.com/44458177/121623120-1c1f5a80-caaa-11eb-9c7d-ec0db8cf1ca1.jpg">
+<img width="50%" src="https://user-images.githubusercontent.com/44458177/121622951-cf3b8400-caa9-11eb-9768-08bb4c000085.jpg">
+<img width="50%" src="https://user-images.githubusercontent.com/44458177/121623063-feea8c00-caa9-11eb-8824-c96d158a823b.jpg">
+<img width="50%" src="https://user-images.githubusercontent.com/44458177/121623272-5852bb00-caaa-11eb-9555-941753c3e3f3.jpg">
 
 
 ## Result
+- 접속
+<img width="30%" src="https://user-images.githubusercontent.com/44458177/121623980-a4eac600-caab-11eb-9cc0-dbea7ea6ca51.jpg">
 
+- 화면 및 코드언어 확인 (미리 설치함)
+<img width="60%" src="https://user-images.githubusercontent.com/44458177/121624957-7e2d8f00-caad-11eb-8fa5-0627bea41269.gif">
